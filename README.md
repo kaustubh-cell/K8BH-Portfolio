@@ -1,4 +1,4 @@
-# K8BH Portfolio 🚀
+# K8BH Portfolio 
 
 Hey! This is my personal website, built for Week 1 of Hack Club's Resolution pathway. 
 
